@@ -1,0 +1,1 @@
+class AddCharactersToActor < ActiveRecord::Migration[4.2]
